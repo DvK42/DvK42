@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DvK42
-- 👀 I’m ReactJS Junior Developper
+- 👀 I’m ReactJS Junior Developer
 - 🌱 I’m currently learning at ESGI
 
 <!---
