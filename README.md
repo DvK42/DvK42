@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @DvK42
-- 👀 I’m interested in Web Developpement
+- 👀 I’m ReactJS Junior Developper
 - 🌱 I’m currently learning at ESGI
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : guillaume.couvidou@live.fr
 
 <!---
 DvK42/DvK42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
